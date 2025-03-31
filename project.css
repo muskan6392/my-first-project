@@ -1,0 +1,125 @@
+.maindiv {
+    height:100vh;
+    width:100%;
+    background-color:blue;   
+}
+.maindiv
+.div1 {
+    height:33vh;
+    width:100%;
+    background-color: maroon;
+    display: flex;
+}
+.maindiv
+.div2 {
+    height:33vh;
+    width:100%;
+    background-color: palevioletred;
+    display: flex;
+}
+.maindiv
+.div3 {
+    height:34vh;
+    width:100%;
+    background-color: green;
+    display:flex;
+}
+.maindiv
+.div1
+.div1_1{
+    height:100%;
+    width:33%;
+    background-color: grey;
+}
+.maindiv
+.div1
+.div1_2{
+    height:100%;
+    width:33%;
+    background-color: rgb(190, 38, 102);
+}
+.maindiv
+.div1
+.div1_3{
+    height:100%;
+    width:34%;
+    background-color: brown;
+}
+.maindiv
+.div2
+.div2_1{
+    height:100%;
+    width:33%;
+    background-color:cyan;
+}
+.maindiv
+.div2
+.div2_2{
+    height:100%;
+    width:33%;
+    background-color: rgb(19, 56, 2);
+}
+.maindiv
+.div2
+.div2_3{
+    height:100%;
+    width:34%;
+    background-color: navy;
+}
+.maindiv
+.div3
+.div3_1{
+    height:100%;
+    width:33%;
+    background-color: purple;
+}
+.maindiv
+.div3
+.div3_2{
+    height:100%;
+    width:33%;
+    background-color:maroon;
+}
+.maindiv
+.div3
+.div3_3{
+    height:100%;
+    width:34%;
+    background-color: red;
+}
+.maindiv .div1 .div1_1 img{
+    height:90%;
+    width:100%;
+}
+.maindiv .div1 .div1_2 img{
+    height:90%;
+    width:100%;
+}
+.maindiv .div1 .div1_3 img{
+    height:90%;
+    width:100%;
+}
+.maindiv .div2 .div2_1 img{
+    height:90%;
+    width:100%;
+}
+.maindiv .div2 .div2_2 img{
+    height:90%;
+    width:100%;
+}
+.maindiv .div2 .div2_3 img{
+    height:90%;
+    width:100%;
+}
+.maindiv .div3 .div3_1 img{
+    height:90%;
+    width:100%;
+}
+.maindiv .div3 .div3_2 img{
+    height:90%;
+    width:100%;
+}
+.maindiv .div3 .div3_3 img{
+    height:90%;
+    width:100%;
+}
